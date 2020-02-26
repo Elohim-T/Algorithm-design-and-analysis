@@ -1,0 +1,7 @@
+﻿  graph.cpp
+d:\otherthings\大学课业\算法设计与分析\作业\作业1\minispantree\minispantree\graph.h(9): warning C4091: “typedef ”: 没有声明变量时忽略“node”的左侧
+d:\otherthings\大学课业\算法设计与分析\作业\作业1\minispantree\minispantree\graph.cpp(109): warning C4101: “ptr1”: 未引用的局部变量
+d:\otherthings\大学课业\算法设计与分析\作业\作业1\minispantree\minispantree\graph.cpp(110): warning C4101: “flag1”: 未引用的局部变量
+d:\otherthings\大学课业\算法设计与分析\作业\作业1\minispantree\minispantree\graph.cpp(110): warning C4101: “flag2”: 未引用的局部变量
+d:\otherthings\大学课业\算法设计与分析\作业\作业1\minispantree\minispantree\graph.cpp(109): warning C4101: “ptr2”: 未引用的局部变量
+  MiniSpanTree.vcxproj -> D:\OtherThings\大学课业\算法设计与分析\作业\作业1\MiniSpanTree\Debug\MiniSpanTree.exe
