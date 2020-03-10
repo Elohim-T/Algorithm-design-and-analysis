@@ -1,0 +1,13 @@
+﻿  RetrievalAlgorithm.cpp
+d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(67): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(67): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(67): note: 缺失的可变参数 1 为格式字符串“%d”所需
+d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(46): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 参见“fscanf”的声明
+d:\otherthings\大学课业\算法设计与分析\作业\代码\retrievalalgorithm\retrievalalgorithm\retrievalalgorithm.cpp(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  RetrievalAlgorithm.vcxproj -> D:\OtherThings\大学课业\算法设计与分析\作业\代码\RetrievalAlgorithm\Debug\RetrievalAlgorithm.exe
